@@ -1,2 +1,15 @@
-theme: jekyll-theme-tactile
-paginate: 5
+markdown: kramdown
+permalink: /:title/
+url: http://jqmtony.github.io
+name: jqmtony.github.io
+author: jqmtony
+qq: 819588035
+email: jqmtony@hotmail.com
+duoshuo: yonsm
+beian: 粤ICP备xxxxxx号
+cnzz: xxxxxx
+weibo: xxxxxx
+github: https://github.com/jqmtony
+safe: true
+paginate: 20
+about: "这里是 jqmtony 的个人博客..."
